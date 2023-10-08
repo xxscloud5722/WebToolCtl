@@ -1,0 +1,11 @@
+.idea/
+/docker/kubernetes/kctl.exe
+/dist/nctl.exe
+/dist/nctl
+/dist/kctl.exe
+/dist/kctl
+/dist/gctl.exe
+/dist/gctl
+/dist/dctl.exe
+/dist/dctl
+dist/
